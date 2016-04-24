@@ -1,0 +1,28 @@
+name: dpitv
+favicon: null
+layout_spectrum: 0.36372373602353036
+typography_spectrum: 0.740639824885875
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6788589872885495
+  lightness: 0.8380036463495344
+  saturation: 0.2805414639879018
+  rhythmicContrast: 0.23760844999924302
+purpose: []
